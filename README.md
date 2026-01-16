@@ -20,7 +20,7 @@
 <br>
 
 <hr>
-#### You can also find me on: 
+<h3 align="left">You can also find me on: </h3> 
 
 [<img align="left" alt="Hari | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Hari | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
